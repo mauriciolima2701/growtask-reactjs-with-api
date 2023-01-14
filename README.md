@@ -1,5 +1,5 @@
 <h1 align="center">- GrowTask - </h1>
-<h1  align="center"> Sistema de tarefas/recados </h1>
+<h1  align="center"> Sistema de tarefas/recados - Consumindo API </h1>
 
 <p align="center"> 
 Atividade realizada para o final do módulo <strong>Back-end</strong> do programa Starter da  <a href="https://www.growdev.com.br/">Growdev</a>. Este é o front-end para consumir a API.
@@ -13,9 +13,9 @@ Atividade realizada para o final do módulo <strong>Back-end</strong> do program
 </p>
 
 <br>
-<br>
-  <h2 align="center"> Deploy: <a href="#"> GrowTask-front-API</a> </h2>
-<br>
+
+## 💻 Telas do projeto:
+
 <br>
 <p align="center">
   <img alt="página de login" src=".github/login.jpg" width="100%">
@@ -65,6 +65,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-## 💻 Projeto
+## 📚 Projeto
 
 O Growtask é um projeto que foi desenvolvido para a atividade final do módulo "Front-end III" do programa Starter da Growdev.<br> E essa aplicação foi refatorada para utilização da API. Versão atualizada do projeto <a href="https://github.com/mauriciolima2701/growtask-reactjs"> growtask-reactjs. </a>
